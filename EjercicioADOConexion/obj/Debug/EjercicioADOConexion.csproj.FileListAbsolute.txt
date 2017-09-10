@@ -1,0 +1,6 @@
+E:\Cibertec\Visual Studio 2015 Developer\Clase02_10_09_2017\EjercicioADO\EjercicioADOConexion\EjercicioADOConexion\bin\Debug\EjercicioADOConexion.exe.config
+E:\Cibertec\Visual Studio 2015 Developer\Clase02_10_09_2017\EjercicioADO\EjercicioADOConexion\EjercicioADOConexion\bin\Debug\EjercicioADOConexion.exe
+E:\Cibertec\Visual Studio 2015 Developer\Clase02_10_09_2017\EjercicioADO\EjercicioADOConexion\EjercicioADOConexion\bin\Debug\EjercicioADOConexion.pdb
+E:\Cibertec\Visual Studio 2015 Developer\Clase02_10_09_2017\EjercicioADO\EjercicioADOConexion\EjercicioADOConexion\obj\Debug\EjercicioADOConexion.csprojResolveAssemblyReference.cache
+E:\Cibertec\Visual Studio 2015 Developer\Clase02_10_09_2017\EjercicioADO\EjercicioADOConexion\EjercicioADOConexion\obj\Debug\EjercicioADOConexion.exe
+E:\Cibertec\Visual Studio 2015 Developer\Clase02_10_09_2017\EjercicioADO\EjercicioADOConexion\EjercicioADOConexion\obj\Debug\EjercicioADOConexion.pdb
